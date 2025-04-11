@@ -21,7 +21,7 @@ const GraphVisualization = () => {
     }, [graph.nodes.length, dispatch]);
 
     return (
-        <div className="flex-1 border border-gray-300 dark:border-gray-700 relative overflow-hidden w-full h-full bg-red-500">
+        <div className="flex-1 border border-gray-300 dark:border-gray-700 relative overflow-hidden w-full h-full ">
             <TransformWrapper
                 initialScale={1}
                 minScale={0.1}
