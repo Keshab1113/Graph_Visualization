@@ -32,12 +32,12 @@ This project is an interactive graph visualization tool that allows users to exp
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/wallet-graph-visualization.git
+   git clone https://github.com/Keshab1113/Graph_Visualization.git
    ```
 
 2. Install dependencies:
    ```bash
-   cd wallet-graph-visualization
+   cd graph-visualization
    npm install
    ```
 
@@ -46,7 +46,7 @@ This project is an interactive graph visualization tool that allows users to exp
    npm start
    ```
 
-4. Open your browser and navigate to `http://localhost:3000`
+4. Open your browser and navigate to `http://localhost:5173`
 
 ## Usage
 
