@@ -92,7 +92,7 @@ A live demo is available at: [Insert your deployment URL here]
 
 ## Video Walkthrough
 
-[Include a link to your video walkthrough explaining the system]
+https://www.loom.com/share/c6508aa614354ec2bf0d71b26daf4627
 
 ## Dependencies
 
